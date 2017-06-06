@@ -8,8 +8,9 @@ gem 'sinatra'
     gem 'thin'
     gem 'shotgun'
     gem 'pry'
+    gem 'byebug'
     gem 'require_all'
-    
+
 group :test do
       gem 'rspec'
       gem 'capybara'
